@@ -2,9 +2,9 @@
 Unity projemiz ile ilgili her şey
 Takım İsmimiz: Arc Coders
 Takım Numaramız: 130
-Ekip Üyelerimiz : Melek Çelik, Ozan Eser, Sefer Gül, Yiğit Türker Dulkadir
+Ekip Üyelerimiz :  Ozan Eser, Sefer Gül, Yiğit Türker Dulkadir
 
-Scrum master : Melek Çelik 
+Scrum master : Yiğit Türker Dulkadir
 
 Product Owner: Sefer Gül
 
