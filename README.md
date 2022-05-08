@@ -9,7 +9,9 @@ Scrum master : Yiğit Türker Dulkadir
 Product Owner: Sefer Gül
 
 Developers: Ozan Eser , Yiğit Türker Dulkadir
+  
 
+Sprint 1
 
 [günlük toplantılar (1.sprint için).docx](https://github.com/yittudu/Oyun-ve-Uygulama-Akademisi/files/8647024/gunluk.toplantilar.1.sprint.icin.docx)
 ![Ekran Görüntüsü (705)](https://user-images.githubusercontent.com/55927138/167298282-f860025e-34fe-4faa-987e-4ba31e5c029b.png)
