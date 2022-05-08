@@ -11,3 +11,4 @@ Product Owner: Sefer Gül
 Developers: Ozan Eser , Yiğit Türker Dulkadir
 
 
+[günlük toplantılar (1.sprint için).docx](https://github.com/yittudu/Oyun-ve-Uygulama-Akademisi/files/8647024/gunluk.toplantilar.1.sprint.icin.docx)
