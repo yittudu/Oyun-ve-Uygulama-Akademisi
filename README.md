@@ -47,6 +47,7 @@ Sprint 1
 
 -Sprint Retrospektifi:  Görev dağılımları bir daha gözden geçirilmeli.
 
+-Sprint Review : Alınan Kararlar: Oyunumuza uygun ana karakter ve düşmanlar belirlendi. Oyunun geri kalanı için kullanılacak olan düşman yapay zekası hazırlandı. Ana karakterin temek hareketleri tamamlandı. İkinci sprint için bölüm tasarlanmasına karar verildi. Ekstra oyun içi özellikler belirlenip nasıl yapılacağı araştırıldı. Sprint Review katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
 -Sprint Board Ekran Görüntüleri:
 ![Ekran Görüntüsü (709)](https://user-images.githubusercontent.com/55927138/167309463-d257a8dc-84e4-47c4-81ad-ad9f78056a21.png)
