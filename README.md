@@ -65,7 +65,7 @@ Sprint 1
 
 
 
-
+https://miro.com/welcomeonboard/aFllUGJxb1dSOGJRekdYdVJOaEJQYWxmcXhtTzhKWDlRM0dqVnpyUktEV25hTzlIeDJxRVFBUE4xTkQ3QmZKM3wzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=251493196496
 
 
 
