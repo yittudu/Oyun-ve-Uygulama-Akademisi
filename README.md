@@ -64,10 +64,7 @@ Sprint 1
 ![WhatsApp Image 2022-05-08 at 21 10 51](https://user-images.githubusercontent.com/55927138/167309574-c88ddc38-e3bf-464f-a79f-c032d1f42fe6.jpeg)
 
 
-
-https://miro.com/welcomeonboard/aFllUGJxb1dSOGJRekdYdVJOaEJQYWxmcXhtTzhKWDlRM0dqVnpyUktEV25hTzlIeDJxRVFBUE4xTkQ3QmZKM3wzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=251493196496
-
-
+https://miro.com/app/board/uXjVO2sHTdk=/?share_link_id=458980232477
 
 
 
