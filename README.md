@@ -34,7 +34,7 @@ Unity projemiz ile ilgili her şey
 
 
 
-Sprint 1
+ ## Sprint 1
 
 [günlük toplantılar (1.sprint için).docx](https://github.com/yittudu/Oyun-ve-Uygulama-Akademisi/files/8647024/gunluk.toplantilar.1.sprint.icin.docx)
 
@@ -69,6 +69,28 @@ https://miro.com/app/board/uXjVO2sHTdk=/?share_link_id=458980232477
 
 
 
+## Sprint 2 
+
+-Sprint notları: Bölüm tasarımlarına geçildi ve düşman yapay zekası bölümlerde test edilmeye başlandı.
+-Sprint içinde tamamlanması tahmin edilen puan:150 puan
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunuyor. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 150 puan ile devam etmesi gerektiğine karar verdik.
+
+-Backlog Düzeni ve Story Seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Toplantılarımızı wp ve slackden gerçekleştirdik. Toplantı mesajlarımız ekran fotosu alınıp word e kaydedilmiştir.
+[sprint 2 günlük toplantılar.docx](https://github.com/yittudu/Oyun-ve-Uygulama-Akademisi/files/8749334/sprint.2.gunluk.toplantilar.docx)
+
+-Sprint Board Update: 
+![Ekran Görüntüsü (712)](https://user-images.githubusercontent.com/55927138/169694128-6f39d806-fa33-4d3d-a9fd-685aa2e70838.png)
+
+https://miro.com/app/board/uXjVOygKBbs=/
+
+-Sprint Review:  Alınan kararlar: Bölüm tasarımı yapılırken tasarımın daha fazla içerige sahip olması gerektiğine karar verildi. Bugların nasıl en aza indirilecegi ile ilgili araştırmalar yapıldı.
+Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
+
+-Sprint Retrospective: Hikayenin bazı yerleri tekrardan gözden geçirilmeli. Oyun içi buglar olabildiğince azaltılmalı.
+Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
