@@ -86,7 +86,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 -Sprint Board Update: 
 ![Ekran Görüntüsü (712)](https://user-images.githubusercontent.com/55927138/169694128-6f39d806-fa33-4d3d-a9fd-685aa2e70838.png)
 
-https://miro.com/app/board/uXjVOygKBbs=/
+https://miro.com/welcomeonboard/bVZLTDM4cFRCMGt4MXhCWndGcWx2VlZqZUxKaVJiWWtoSE1TZXFNR2Y0WnZlcjFaYkhzR3hNWFM5aXZtRDhQaHwzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=767951194159
 
 -Sprint Review:  Alınan kararlar: Bölüm tasarımı yapılırken tasarımın daha fazla içerige sahip olması gerektiğine karar verildi. Bugların nasıl en aza indirilecegi ile ilgili araştırmalar yapıldı.
 Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
