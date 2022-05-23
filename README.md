@@ -99,5 +99,6 @@ https://miro.com/welcomeonboard/bVZLTDM4cFRCMGt4MXhCWndGcWx2VlZqZUxKaVJiWWtoSE1T
 Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
 -Sprint Retrospective: Oyunumuzun hikayesi bazı  yerlerden eksik kalmakta, bölüm tasarımları ve düşman yapay zekasını dogru yapmaktayız. Aklımıza gelen ana karakter ile igili yeni fikirleri askıya almamız lazım çünkü fazladan iş yükü olup süreci sekteye ugratıyor. Görevleri aramızda iş bölümü yaparak verimli bir şekilde halletmekteyiz. 3.Sprint' e kadar olan süre içinde takım arkadaşlarımızın finalleri olacağı için birbirimizin görevlerini paslaşarak yapmayı planlamaktayız.
+
 Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
