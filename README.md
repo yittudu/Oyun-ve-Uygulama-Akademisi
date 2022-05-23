@@ -62,7 +62,7 @@ Unity projemiz ile ilgili her şey
 ![WhatsApp Image 2022-05-08 at 20 45 39 (2)](https://user-images.githubusercontent.com/55927138/167308865-4b777232-69d1-463d-ac5f-e828e1aff7f1.jpeg)
 ![WhatsApp Image 2022-05-08 at 20 45 39 (3)](https://user-images.githubusercontent.com/55927138/167308867-58dbda44-dc87-458e-b0db-5e602d422127.jpeg)
 
-![WhatsApp Image 2022-05-08 at 21 10 51](https://user-images.githubusercontent.com/55927138/167309574-c88ddc38-e3bf-464f-a79f-c032d1f42fe6.jpeg)
+
 
 
 https://miro.com/app/board/uXjVO2sHTdk=/?share_link_id=458980232477
@@ -92,6 +92,7 @@ https://miro.com/welcomeonboard/bVZLTDM4cFRCMGt4MXhCWndGcWx2VlZqZUxKaVJiWWtoSE1T
 ## Ürün Durumu Ekran Görüntüsü:
 ![WhatsApp Image 2022-05-23 at 12 53 04](https://user-images.githubusercontent.com/55927138/169863886-7cb84c46-b556-4a35-a9bf-18cf2f4b933f.jpeg)
 
+![WhatsApp Image 2022-05-08 at 21 10 51](https://user-images.githubusercontent.com/55927138/167309574-c88ddc38-e3bf-464f-a79f-c032d1f42fe6.jpeg)
 
 
 -Sprint Review:  Alınan kararlar: Bölüm tasarımı yapılırken tasarımın daha fazla içerige sahip olması gerektiğine karar verildi. Bugların nasıl en aza indirilecegi ile ilgili araştırmalar yapıldı.
