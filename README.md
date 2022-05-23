@@ -88,9 +88,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 https://miro.com/welcomeonboard/bVZLTDM4cFRCMGt4MXhCWndGcWx2VlZqZUxKaVJiWWtoSE1TZXFNR2Y0WnZlcjFaYkhzR3hNWFM5aXZtRDhQaHwzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=767951194159
 
+
+## Ürün Durumu Ekran Görüntüsü:
+![WhatsApp Image 2022-05-23 at 12 53 04](https://user-images.githubusercontent.com/55927138/169863886-7cb84c46-b556-4a35-a9bf-18cf2f4b933f.jpeg)
+
+
+
 -Sprint Review:  Alınan kararlar: Bölüm tasarımı yapılırken tasarımın daha fazla içerige sahip olması gerektiğine karar verildi. Bugların nasıl en aza indirilecegi ile ilgili araştırmalar yapıldı.
 Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
--Sprint Retrospective: Hikayenin bazı yerleri tekrardan gözden geçirilmeli. Oyun içi buglar olabildiğince azaltılmalı.
+-Sprint Retrospective: Oyunumuzun hikayesi bazı  yerlerden eksik kalmakta, bölüm tasarımları ve düşman yapay zekasını dogru yapmaktayız. Aklımıza gelen ana karakter ile igili yeni fikirleri askıya almamız lazım çünkü fazladan iş yükü olup süreci sekteye ugratıyor. Görevleri aramızda iş bölümü yaparak verimli bir şekilde halletmekteyiz. 3.Sprint' e kadar olan süre içinde takım arkadaşlarımızın finalleri olacağı için birbirimizin görevlerini paslaşarak yapmayı planlamaktayız.
 Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
