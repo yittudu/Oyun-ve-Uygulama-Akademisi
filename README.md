@@ -102,3 +102,33 @@ Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
 Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
+## Sprint 3 
+-Sprint notları: Oyun içindeki buglar ile uğraşıldı.Boss sahnesi test ediliyor.
+-Sprint içinde tamamlanması gereken tahmini puan:90 puan
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunuyor. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 90 puan ile devam etmesi gerektiğine karar verdik.
+
+-Backlog Düzeni ve Story Seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Toplantılarımızı wp ve slackden gerçekleştirdik. Toplantı mesajlarımız ekran fotosu alınıp word e kaydedilmiştir.
+
+
+[sprint 3 günlük.docx](https://github.com/yittudu/Oyun-ve-Uygulama-Akademisi/files/8840461/sprint.3.gunluk.docx)
+
+-Sprint Board Update:
+![Ekran Görüntüsü (739)](https://user-images.githubusercontent.com/55927138/172064049-62aadbae-cd5c-4ac6-ad9b-77698e9bee11.png)
+
+https://miro.com/welcomeonboard/M0FaUjRBZG9zWWRxNkkwM21TQWRaaGtob0ZUNjY5aUhkRzQwY3l1YTJkeEp5ZzFSUFRJZGxRN3ZSU0xWcEtCUXwzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=875548531742
+
+## Ürün Durum Ekran Görüntüsü:
+
+![Ekran Görüntüsü (740)](https://user-images.githubusercontent.com/55927138/172064072-f9cdd599-475e-4a46-91e2-441df5ea064c.png)
+
+-Sprint Review: Alınan Kararlar: Bugların nasıl en aza indirilecegi ile ilgili araştırmalar yapıldı. Karakterin daha fazla ses efektine sahip olmasına karar verildi.
+ Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
+ 
+ -Sprint Retrospective: Oyunumuzun hikayesi istedigimiz gibi oturmadı. İş bölümünü iyi planlayamadık, bu da işlerin gerekenden daha fazla vakit almasına yol açtı. Görevleri aramızda daha iyi paylaşabilmeliyiz. Bundan sonraki projelerde projenin başlangıcında daha iyi iş planlaması yapılması gerektiğini tecrübe etmiş olduk.
+ 
+ Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
+
