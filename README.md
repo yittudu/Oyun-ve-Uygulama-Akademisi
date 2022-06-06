@@ -132,7 +132,7 @@ https://miro.com/welcomeonboard/M0FaUjRBZG9zWWRxNkkwM21TQWRaaGtob0ZUNjY5aUhkRzQw
 -Sprint Review: Alınan Kararlar: Bugları halledemedigimiz için başka bir oyun yapma kararı aldık. Kısa vakitte yapabilecegimiz bir oyun olmasına karar verdik.
  Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
  
- -Sprint Retrospective: Oyunumuzun hikayesi istedigimiz gibi oturmadı. İş bölümünü iyi planlayamadık, bu da işlerin gerekenden daha fazla vakit almasına yol açtı. Görevleri aramızda daha iyi paylaşabilmeliyiz. Bundan sonraki projelerde projenin başlangıcında daha iyi iş planlaması yapılması gerektiğini tecrübe etmiş olduk.
+ -Sprint Retrospective: Oyunumuzun hikayesi istedigimiz gibi oturmadı ve buglardan dolayı projeyi iptal eetmek zorunda kaldık. İş bölümünü iyi planlayamadık, bu da işlerin gerekenden daha fazla vakit almasına yol açtı. Görevleri aramızda daha iyi paylaşabilmeliyiz. Bundan sonraki projelerde projenin başlangıcında daha iyi iş planlaması yapılması gerektiğini tecrübe etmiş olduk.  Mezuniyet için yeni proje yapıldı.
  
  Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
