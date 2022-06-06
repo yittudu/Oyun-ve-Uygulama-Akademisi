@@ -103,7 +103,7 @@ Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 Sprint Retrospective Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
 
 ## Sprint 3 
--Sprint notları: Oyun içindeki buglar ile uğraşıldı.Boss sahnesi test ediliyor.
+-Sprint notları: Yeni oyun türlerini araştırıp hangisini yapabiliriz. Onu bulmaya çalışıyoruz.
 -Sprint içinde tamamlanması gereken tahmini puan:90 puan
 -Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunuyor. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 90 puan ile devam etmesi gerektiğine karar verdik.
 
@@ -116,16 +116,20 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 [sprint 3 günlük.docx](https://github.com/yittudu/Oyun-ve-Uygulama-Akademisi/files/8840461/sprint.3.gunluk.docx)
 
--Sprint Board Update:
-![Ekran Görüntüsü (739)](https://user-images.githubusercontent.com/55927138/172064049-62aadbae-cd5c-4ac6-ad9b-77698e9bee11.png)
+-Sprint Board Upd![Ekran Görüntüsü (744)](https://user-images.githubusercontent.com/55927138/172223999-7955a001-9cb7-48a3-871b-38669077e4b7.png)
+ate:
 
-https://miro.com/welcomeonboard/M0FaUjRBZG9zWWRxNkkwM21TQWRaaGtob0ZUNjY5aUhkRzQwY3l1YTJkeEp5ZzFSUFRJZGxRN3ZSU0xWcEtCUXwzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=875548531742
+
+https://miro.com/welcomeonboard/M0FaUjRBZG9zWWRxNkkwM21TQWRaaGtob0ZUNjY5aUhkRzQwY3l1YTJkeEp5ZzFSUFRJZGxRN3ZSU0xWcEtCUXwzNDU4NzY0NTI0ODkxMjQ3MzIz?share_link_id=474583454061
 
 ## Ürün Durum Ekran Görüntüsü:
+![Ekran Görüntüsü (741)](https://user-images.githubusercontent.com/55927138/172223061-c4b1aa3c-99ae-4609-a583-2d617f283dbb.png)
+![Ekran Görüntüsü (742)](https://user-images.githubusercontent.com/55927138/172223067-4e1a461f-c91a-47cc-9229-079d432485df.png)
+![Ekran Görüntüsü (743)](https://user-images.githubusercontent.com/55927138/172223080-6197c45f-9a3e-4c68-9a7d-3282a2369c94.png)
 
-![Ekran Görüntüsü (740)](https://user-images.githubusercontent.com/55927138/172064072-f9cdd599-475e-4a46-91e2-441df5ea064c.png)
 
--Sprint Review: Alınan Kararlar: Bugların nasıl en aza indirilecegi ile ilgili araştırmalar yapıldı. Karakterin daha fazla ses efektine sahip olmasına karar verildi.
+
+-Sprint Review: Alınan Kararlar: Bugları halledemedigimiz için başka bir oyun yapma kararı aldık. Kısa vakitte yapabilecegimiz bir oyun olmasına karar verdik.
  Sprint Review Katılımcıları: Yiğit Türker Dulkadir, Ozan Eser, Sefer Gül
  
  -Sprint Retrospective: Oyunumuzun hikayesi istedigimiz gibi oturmadı. İş bölümünü iyi planlayamadık, bu da işlerin gerekenden daha fazla vakit almasına yol açtı. Görevleri aramızda daha iyi paylaşabilmeliyiz. Bundan sonraki projelerde projenin başlangıcında daha iyi iş planlaması yapılması gerektiğini tecrübe etmiş olduk.
